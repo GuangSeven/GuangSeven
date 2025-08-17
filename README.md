@@ -19,7 +19,7 @@ I’m constantly expanding my toolbox! These are the technologies I work with mo
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) 
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
-### My practice situation and introduction on Luogu
+### My profile on Luogu
 
 [![GuangTang的练习情况](https://luogu-card.vercel.app/practice?id=1764243&disable_cache=true&dark_mode=true)](https://www.luogu.com.cn/user/1764243)
 [![GuangTang的基本信息](https://luogu-card.vercel.app/about?id=1764243&disable_cache=true&dark_mode=true)](https://www.luogu.com.cn/user/1764243)
