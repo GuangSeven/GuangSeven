@@ -1,8 +1,7 @@
 <h1 align='center'>👋 Hello! I'm GuangSeven</h1>
 <p align='center'>
-<a href="https://wakatime.com/@59403c9f-20d5-4001-a7bc-b4d15c9aacd1"><img src="https://wakatime.com/badge/user/59403c9f-20d5-4001-a7bc-b4d15c9aacd1.svg"/></a> <!-- 可选：编码时长统计 -->
+<a href="https://wakatime.com/@59403c9f-20d5-4001-a7bc-b4d15c9aacd1"><img src="https://wakatime.com/badge/user/59403c9f-20d5-4001-a7bc-b4d15c9aacd1.svg"/></a>
 <a href="https://github.com/GuangSeven?tab=repositories"><img src="https://img.shields.io/github/stars/GuangSeven?style=flat&logo=github&label=Total%20Stars&color=teal"/></a>
-<a href="https://visitorbadge.io/status?path=GuangSeven%2FGuangSeven"><img src="https://api.visitorbadge.io/api/visitors?path=GuangSeven%2FGuangSeven&label=🌍 %20 Visitors&countColor=%23263759&style=flat&labelStyle=none" /></a>
 </p>
 
 Glad to see you here! I'm GuangSeven, a Junior student at HFLS. I’m passionate about web development , AI & machine learning and open-source and love turning classroom knowledge into practical projects. In my free time, you’ll find me coding side projects and learning new tech 🚀.
@@ -17,13 +16,13 @@ I’m constantly expanding my toolbox! These are the technologies I work with mo
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
 ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)  
 
 ### My practice situation and introduction on Luogu
 
-[![GuangTang的练习情况](https://luogu-card.vercel.app/practice?id=1764243)](https://www.luogu.com.cn/user/1764243)
-[![GuangTang的基本信息](https://luogu-card.vercel.app/about?id=1764243)](https://www.luogu.com.cn/user/1764243)
+[![GuangTang的练习情况](https://luogu-card.vercel.app/practice?id=1764243&disable_cache=true&dark_mode=true)](https://www.luogu.com.cn/user/1764243)
+[![GuangTang的基本信息](https://luogu-card.vercel.app/about?id=1764243&disable_cache=true&dark_mode=true)](https://www.luogu.com.cn/user/1764243)
 
 ### Let's Connect!
 
