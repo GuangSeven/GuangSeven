@@ -14,10 +14,10 @@ Currently, I’m focusing on making games with unreal engine and building mobile
 
 I’m constantly expanding my toolbox! These are the technologies I work with most:
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
-![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) 
+![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white) 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) 
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
 ### My practice situation and introduction on Luogu
 
