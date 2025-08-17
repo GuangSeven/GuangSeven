@@ -30,9 +30,9 @@ I’m always open to learning from others and collaborating on fun projects. Let
 
 [![GitHub followers](https://img.shields.io/github/followers/GuangSeven.svg?label=Follow%20@GuangSeven&style=social)](https://github.com/GuangSeven/) 
 [![Email](https://img.shields.io/badge/Email-tangmail-D14836?logo=gmail&logoColor=white)](mailto:tangmail@tuta.io)
-[![DingTalk](https://img.shields.io/badge/DingTalk-tang403320-0099FF?logo=DingTalk&logoColor=white)]
-[![Bilibili](https://img.shields.io/badge/Bilibili-652613293-FF69B4?logo=Bilibili&logoColor=white)](https://space.bilibili.com/652613293)
-[![Wechat](https://img.shields.io/badge/Wechat-thr110905-07C160?logo=WeChat&logoColor=white)]
+![DingTalk](https://img.shields.io/badge/DingTalk-tang403320-0099FF?logo=DingTalk&logoColor=white)
+![Bilibili](https://img.shields.io/badge/Bilibili-652613293-FF69B4?logo=Bilibili&logoColor=white)(https://space.bilibili.com/652613293)
+![Wechat](https://img.shields.io/badge/Wechat-thr110905-07C160?logo=WeChat&logoColor=white)
 
 **Let's learn, code, and grow together!**
 
