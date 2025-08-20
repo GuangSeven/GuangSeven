@@ -8,8 +8,6 @@ Glad to see you here! I'm GuangSeven, a Junior student at HFLS. I’m passionate
 
 Currently, I’m focusing on making games with unreal engine and building mobile apps. I’ve been learning JavaScript, Python, and database design through courses, personal projects.
 
-[![Github Badge](https://img.shields.io/badge/-@GuangSeven-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/GuangSeven)](https://github.com/GuangSeven) 
-
 ### Tech Stack I’m Learning & Using
 
 I’m constantly expanding my toolbox! These are the technologies I work with most:
