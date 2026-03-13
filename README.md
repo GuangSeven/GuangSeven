@@ -6,7 +6,6 @@
 
 Glad to see you here! I'm GuangSeven, a Junior student at HFLS. I’m passionate about web development , AI & machine learning , open-source (and games?) and love turning classroom knowledge into practical projects. In my free time, you’ll find me coding side projects and learning new tech 🚀.
 
-This is my Blog: [TangBlog](https://tblog.notion.site/0)
 
 Currently, I’m focusing on making games with unreal engine and building mobile apps. I’ve been learning JavaScript, Python, and database design through courses, personal projects.
 
