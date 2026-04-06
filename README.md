@@ -4,7 +4,7 @@
 <a href="https://github.com/GuangSeven?tab=repositories"><img src="https://img.shields.io/github/stars/GuangSeven?style=flat&logo=github&label=Total%20Stars&color=teal"/></a>
 </p>
 
-Glad to see you here! I'm GuangSeven, a Junior student at HFLS. I’m passionate about web development , AI & machine learning , open-source (and games?) and love turning classroom knowledge into practical projects. In my free time, you’ll find me coding side projects and learning new tech 🚀.
+Glad to see you here！(・ω・) I'm GuangSeven, a Junior student at HFLS. I’m passionate about web development , AI & machine learning , open-source (and games?) and love turning classroom knowledge into practical projects. In my free time, you’ll find me coding side projects and learning new tech 🚀.
 
 
 Currently, I’m focusing on making games with unreal engine and building mobile apps. I’ve been learning JavaScript, Python, and database design through courses, personal projects.
