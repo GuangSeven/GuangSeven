@@ -23,7 +23,7 @@ I’m constantly expanding my toolbox! These are the technologies I work with mo
 I’m always open to learning from others and collaborating on fun projects. Let’s connect!
 
 [![GitHub followers](https://img.shields.io/github/followers/GuangSeven.svg?label=Follow%20@GuangSeven&style=social)](https://github.com/GuangSeven/) 
-[![Email](https://img.shields.io/badge/Email-tangmail-D14836?logo=gmail&logoColor=white)](mailto:tangmail@tuta.io)
+[![Email](https://img.shields.io/badge/Email-ille4t-D14836?logo=gmail&logoColor=white)](mailto:ille4t@163.com)
 [![Steam](https://img.shields.io/badge/Steam-GuangSeven-1B2838?logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199860847400/)
 ![DingTalk](https://img.shields.io/badge/DingTalk-tang403320-0099FF?logo=DingTalk&logoColor=white)
 [![Bilibili](https://img.shields.io/badge/Bilibili-652613293-FF69B4?logo=Bilibili&logoColor=white)](https://space.bilibili.com/652613293)
