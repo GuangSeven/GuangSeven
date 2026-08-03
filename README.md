@@ -23,7 +23,7 @@ I’m always open to learning from others and collaborating on fun projects. Let
 
 [![GitHub followers](https://img.shields.io/github/followers/GuangSeven.svg?label=Follow%20@GuangSeven&style=social)](https://github.com/GuangSeven/) 
 [![Email](https://img.shields.io/badge/Email-dbfs@qq.com-D14836?logo=gmail&logoColor=white)](mailto:dbfs@qq.com)
-[![Steam](https://img.shields.io/badge/Steam-GuangSeven-1B2838?logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199860847400/)
+[![Steam](https://img.shields.io/badge/Steam-オムライス-1B2838?logo=steam&logoColor=white)](https://steamcommunity.com/id/xfdbfw/)
 ![DingTalk](https://img.shields.io/badge/DingTalk-tang403320-0099FF?logo=DingTalk&logoColor=white)
 [![Bilibili](https://img.shields.io/badge/Bilibili-652613293-FF69B4?logo=Bilibili&logoColor=white)](https://space.bilibili.com/652613293)
 ![Wechat](https://img.shields.io/badge/Wechat-thr110905-07C160?logo=WeChat&logoColor=white)
