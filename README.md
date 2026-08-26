@@ -31,5 +31,5 @@ I’m always open to learning from others and collaborating on fun projects. Let
 **Let's learn, code, and grow together!**
 
 <p align="center">
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=GuangSeven&theme=darcula&hide_border=true&background=FFFFFF00">
+  <img src ="https://gitstats.xfdbf.me?user=GuangSeven&theme=darcula&hide_border=true&background=FFFFFF00">
 </p>
